@@ -1,4 +1,8 @@
-## Hi there 👋
+## OrderX
+
+Hello! I'm OrderX, a programmer who likes to make games and 3D models.
+
+Currently I'm working on my own game called PineOS! You can check it out on my channel: [youtube.com/@OrderX8](youtube.com/@OrderX8)
 
 <!--
 **OrderX8/OrderX8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
