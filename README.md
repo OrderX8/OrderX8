@@ -1,20 +1,13 @@
-## OrderX
+# OrderX
 
-Hello! I'm OrderX, a programmer who likes to make games and 3D models for fun.
+Hello! I'm OrderX, a programmer who likes to make games and 3D models for fun. Currently, I'm making a game, but I'm also planning to make a project on here!
 
-Currently I'm working on my own game called PineOS (for practice)! You can check it out on my channel: [youtube.com/@OrderX8](youtube.com/@OrderX8)
+## PineOS
+<img src="PineOS/PineOS_Cover.jpeg" alt="Alt text" width="400"/>
 
-<!--
-**OrderX8/OrderX8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Right now I'm working on my game called PineOS.
 
-Here are some ideas to get you started:
+> [!Note]
+> I'm doing this for practice so I probabaly won't be publishing this in the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can check it out on my channel! [@OrderX8](youtube.com/@OrderX8)
