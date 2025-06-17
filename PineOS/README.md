@@ -4,12 +4,12 @@ Welcome to my PineOS game "page"!
 
 On here I'll show my progress and updates of my game.
 
-> [!Note:]
+> **Note:**
 > Since this is made in Unity and I'm not planning to release this game, I won't be releasing this game to the public.
 
 ## Progress/Updates
 
-> [!Note:]
+> **Note:**
 > For the Prototype/Pre-Alpha I won't be showing a list of all the things I added in my updates. But I will do this in my Alpha versions.
 
 ### Alpha: Version 0.1.0
