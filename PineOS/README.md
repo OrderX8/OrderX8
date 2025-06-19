@@ -5,7 +5,7 @@ Welcome to my PineOS game "page"!
 On here I'll show my progress and updates of my game.
 
 > **Note:**
-> Since this is made in Unity and I'm not planning to release this game, I won't be releasing this game to the public.
+> Since this is made in Unity and I'm not planning to sale this game, I won't be releasing this game to the public.
 
 ## Progress/Updates
 
