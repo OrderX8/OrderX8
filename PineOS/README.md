@@ -14,6 +14,7 @@ On here I'll show my progress and updates of my game.
 
 ### Alpha: Version 0.1.0
 
+**In development! [:**
 I'm planning on having this version by the end of this month (Jun 30)
 
 ### Prototype/Pre-Alpha
@@ -22,7 +23,7 @@ I'm planning on having this version by the end of this month (Jun 30)
 
 <img src="Images/TestFloorImg.jpg" alt="Alt text" width="400"/>
 
-**In development! [:**
+[Video of Version 0.0.5](https://youtu.be/T_1Ma_qONMg)
 
 #### Version 0.0.4
 
