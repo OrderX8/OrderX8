@@ -17,6 +17,27 @@ On here I'll show my progress and updates of my game.
 **In development! [:**
 I'm planning on having this version by the end of this month (Jun 30)
 
+#### Basic Features:
+- Basic World:
+    - Basic grass texture and mountain model
+    - Tree models, bush model, and stick model
+- Player:
+    - Walking, jumping, sprinting, crouching, and collecting
+    - Holding Inventory System
+- Items:
+    - Sticks: Used for continuing the campfire
+    - Walkie-Talkie: Currently just used to show time
+- Main Menu UI
+    - Basic Layout of the 4 tabs: Home, Inventory, Tasks, and Settings
+    - Home View:
+        - Clock
+    - Settings View:
+        - Refrence UI of Brightness and Sound
+        - Render Resoultion Selection
+        - FPS Selection
+- Etc.
+
+
 ### Prototype/Pre-Alpha
 
 #### Version 0.0.5
