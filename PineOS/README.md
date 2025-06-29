@@ -14,20 +14,19 @@ On here I'll show my progress and updates of my game.
 
 ### Alpha: Version 0.1.0
 
-**In development! [:**
-I'm planning on having this version by the end of this month (Jun 30)
+[PineOS 0.1.0 Video!](https://youtu.be/5wdEpcv4Lk8)
 
 #### Basic Features:
 - Basic World:
     - Basic grass texture and mountain model
-    - Tree models, bush model, and stick model
+    - Tree models, bush model, log model, and stick model
 - Player:
     - Walking, jumping, sprinting, crouching, and collecting
     - Holding Inventory System
 - Items:
     - Sticks: Used for continuing the campfire
     - Walkie-Talkie: Currently just used to show time
-- Main Menu UI
+- Main Menu UI:
     - Basic Layout of the 4 tabs: Home, Inventory, Tasks, and Settings
     - Home View:
         - Clock
@@ -35,7 +34,12 @@ I'm planning on having this version by the end of this month (Jun 30)
         - Refrence UI of Brightness and Sound
         - Render Resoultion Selection
         - FPS Selection
-- Etc.
+- Time:
+      - Night and Day system
+      - 00:00 to 23:59 time
+- Weather:
+      - Rain
+      - Fog
 
 
 ### Prototype/Pre-Alpha
