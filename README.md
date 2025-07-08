@@ -11,3 +11,12 @@ For practice I've been working on my own game called PineOS.
 You can check it out on my channel! [@OrderX8](youtube.com/@OrderX8)
 
 
+## VG Resource
+
+I'm helping out with ripping sprites and models from games on the [VG Resource website](vg-resource.com)!
+
+You can check out my profiles here:
+
+[The Sprite Resource](https://www.spriters-resource.com/submitter/OrderX/)
+
+[The Models Resource](https://www.models-resource.com/submitter/OrderX/)
