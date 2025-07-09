@@ -13,7 +13,7 @@ You can check it out on my channel! [@OrderX8](youtube.com/@OrderX8)
 
 ## VG Resource
 
-I'm helping out with ripping sprites and models from games on the [VG Resource website](vg-resource.com)!
+I'm helping out with ripping sprites and models from games on the [VG Resource website](https://vg-resource.com)!
 
 You can check out my profiles here:
 
