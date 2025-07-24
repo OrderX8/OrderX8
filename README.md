@@ -1,6 +1,6 @@
 # OrderX
 
-Hello! I'm OrderX, a programmer who likes to make games and 3D models for fun. Currently, I'm making a unity package called Unity Tool Board.
+Hello! I'm OrderX, a programmer who likes to make games and 3D models for fun.
 
 ## PineOS
 <img src="PineOS/Images/PineOS_Cover.jpeg" alt="Alt text" width="400"/>
