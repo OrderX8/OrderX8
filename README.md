@@ -1,6 +1,6 @@
 # OrderX
 
-Hello! I'm OrderX, a programmer who likes to make games and 3D models for fun. Currently, I'm making a unity package called Unity Tool Board.
+Hello! I'm OrderX, a programmer who likes to make games and 3D models for fun.
 
 ## PineOS
 <img src="PineOS/Images/PineOS_Cover.jpeg" alt="Alt text" width="400"/>
@@ -13,7 +13,7 @@ You can check it out on my channel! [@OrderX8](youtube.com/@OrderX8)
 
 ## VG Resource
 
-I'm helping out with ripping sprites and models from games on the [VG Resource website](vg-resource.com)!
+I'm helping out with ripping sprites and models from games on the [VG Resource website](https://vg-resource.com)!
 
 You can check out my profiles here:
 
