@@ -1,6 +1,6 @@
 # OrderX
 
-Hello! I'm OrderX, a programmer who likes to make games and 3D models for fun.
+Hello! I'm OrderX, a programmer who likes to make games and 3D animations/models for fun.
 
 ## Current Projects
 
