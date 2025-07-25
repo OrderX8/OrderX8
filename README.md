@@ -14,7 +14,7 @@ You can check out my profiles here:
 
 [The Models Resource](https://www.models-resource.com/submitter/OrderX/)
 
-## Previous Projects
+## Recent Previous Projects
 
 ### PineOS
 
@@ -23,7 +23,8 @@ You can check out my profiles here:
 For practice I worked on my own game called PineOS.
 [Read more about it here!](/PineOS)
 
-You can check it out on my channel! [@OrderX8](youtube.com/@OrderX8)
+You can also check it out on my channel. [@OrderX8](youtube.com/@OrderX8)
 
+### Other/Previous Projects
 
-[You can check them out all of them here!](/PROJECTS.md)
+[You can find all my projects here.](/PROJECTS.md)
