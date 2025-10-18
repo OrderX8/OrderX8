@@ -4,15 +4,7 @@ Hello! I'm OrderX, a programmer who likes to make games and 3D animations/models
 
 ## Current Projects
 
-### VG Resource
-
-I'm helping out with ripping sprites and models from games on the [VG Resource website](https://vg-resource.com)!
-
-You can check out my profiles here:
-
-[The Sprite Resource](https://www.spriters-resource.com/submitter/OrderX/)
-
-[The Models Resource](https://www.models-resource.com/submitter/OrderX/)
+...
 
 ## Recent Previous Projects
 
