@@ -2,7 +2,7 @@
 
 Welcome to my PineOS game "page"!
 
-<img src="PineOS/Images/PineOS_Cover.jpeg" alt="Alt text" width="400"/>
+<img src="/Images/PineOS_Cover.jpeg" alt="Alt text" width="400"/>
 
 For practice I worked on my own game called PineOS.
 
