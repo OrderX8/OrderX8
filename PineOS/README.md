@@ -2,6 +2,12 @@
 
 Welcome to my PineOS game "page"!
 
+<img src="PineOS/Images/PineOS_Cover.jpeg" alt="Alt text" width="400"/>
+
+For practice I worked on my own game called PineOS.
+
+You can also check it out on my channel. [@OrderX8](youtube.com/@OrderX8)
+
 On here I'll show my progress and updates of my game.
 
 > **Note:**
