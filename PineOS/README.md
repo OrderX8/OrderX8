@@ -2,6 +2,10 @@
 
 Welcome to my PineOS game "page"!
 
+For practice I worked on my own game called PineOS.
+
+You can also check it out on my channel. [@OrderX8](youtube.com/@OrderX8)
+
 On here I'll show my progress and updates of my game.
 
 > **Note:**
