@@ -1,4 +1,5 @@
 # OrderX
+![Static Badge](https://img.shields.io/badge/build-badge!%20(That%20I%20might%20use)-brightgreen?label=This%20is%20a)
 
 Hello! I'm OrderX, a programmer who likes to make games and 3D animations/models for fun.
 
