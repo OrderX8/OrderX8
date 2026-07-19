@@ -8,9 +8,6 @@ You can also check it out on my channel. [@OrderX8](youtube.com/@OrderX8)
 
 On here I'll show my progress and updates of my game.
 
-> **Note:**
-> Since this is made in Unity and I'm not planning to sale this game, I won't be releasing this game to the public.
-
 ## Progress/Updates
 
 > **Note:**

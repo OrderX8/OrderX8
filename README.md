@@ -1,15 +1,19 @@
 # OrderX
+<!-- 
+![Static Badge](https://img.shields.io/badge/build-badge!%20(That%20I%20might%20use)-brightgreen?label=This%20is%20a) 
+-->
 
-Hello! I'm OrderX, a programmer who likes to make games and 3D animations/models for fun.
+Hello! I'm OrderX, a software developer learning game development and 3d graphics.
 
-## Current Projects
+## Projects
+### [SYS.GAMES](SYS.GAMES/README.MD)
 
-### ???
+<img src="https://img.itch.zone/aW1nLzI3NjE3OTUyLmdpZg==/original/lRXmO1.gif" width="300">
 
-<img src="Imgs/SneakyCat.gif" alt="Alt text" width="150"/>
+Currently I'm working on my own game about retro mini-games on an old computer terminal.
 
-[Something... (:](http://youtube.com/post/UgkxzhGtQHKbVGfZzZGR65ROUknEEx92cVEZ?si=6TgYRKslpyzxCPNX)
+You can play in it beta here! [SYS.GAMES Page](https://orderx.itch.io/sys-games)
 
-## Other/Previous Projects
-
-[You can find all my projects here.](/PROJECTS.md)
+### Other/Previous Projects
++ [My other projects.](/PROJECTS.md)
++ [Github projects that I helped on.](https://github.com/stars/OrderX8/lists/helped-helping-on)
