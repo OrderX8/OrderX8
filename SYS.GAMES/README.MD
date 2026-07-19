@@ -1,5 +1,5 @@
 # SYS.GAMES
 
-A retro terminal-style game containing a database of mini-games from a strange Operating System, "A.OS".
+<img src="https://img.itch.zone/aW1nLzI3NjE3OTUyLmdpZg==/original/lRXmO1.gif" width="300">
 
-<iframe frameborder="0" src="https://itch.io/embed/4562180?dark=true" width="552" height="167"><a href="https://orderx.itch.io/sys-games">SYS.GAMES by OrderX</a></iframe>
+A retro terminal-style game containing a database of mini-games from a strange Operating System, "A.OS".
