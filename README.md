@@ -6,11 +6,12 @@
 Hello! I'm OrderX, a software developer learning game development and 3d graphics.
 
 ## Projects
-### ???
+### [SYS.GAMES](SYS.GAMES/README.MD)
 
-<img src="Imgs/SneakyCat.gif" alt="Alt text" width="150"/>
+Currently I'm working on my own game about retro mini-games on an old computer terminal.
 
-[Something... (:](http://youtube.com/post/UgkxzhGtQHKbVGfZzZGR65ROUknEEx92cVEZ?si=6TgYRKslpyzxCPNX)
+You can play in it beta here:
+<iframe frameborder="0" src="https://itch.io/embed/4562180?dark=true" width="552" height="167"><a href="https://orderx.itch.io/sys-games">SYS.GAMES by OrderX</a></iframe>
 
 ### Other/Previous Projects
 + [My other projects.](/PROJECTS.md)
