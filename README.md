@@ -10,7 +10,7 @@ Hello! I'm OrderX, a software developer learning game development and 3d graphic
 
 <img src="https://img.itch.zone/aW1nLzI3NjE3OTUyLmdpZg==/original/lRXmO1.gif" width="300">
 
-Currently I'm working on my own game about retro mini-games on an old computer terminal.
+A game about retro mini-games on an old computer terminal.
 
 You can play in it beta here! [SYS.GAMES Page](https://orderx.itch.io/sys-games)
 
