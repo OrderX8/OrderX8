@@ -10,7 +10,7 @@ Hello! I'm OrderX, a software developer learning game development and 3d graphic
 
 <img src="https://i.pinimg.com/736x/ee/b1/1b/eeb11bc95c5854ea02359b24bc90d147.jpg" width="300">
 
-I show my animations on my **Youtube channel**, and models/renders on my **Pinterest account**.
+I show my animations on my **[Youtube channel](https://youtube.com/@orderx8)**, and models/renders on my **[Pinterest account](https://pin.it/2vecvH8cR)**.
 
 **Current Model In-Progress**: *A 3d cartoon character*; Details and renders are going to be shown once I'm done [:
 
