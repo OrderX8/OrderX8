@@ -8,7 +8,7 @@ Hello! I'm OrderX, a software developer learning game development and 3d graphic
 ## Current Projects
 ### 3D Models/Renders
 
-<img src="https://i.pinimg.com/736x/ee/b1/1b/eeb11bc95c5854ea02359b24bc90d147.jpg" width="300"> https://v1.pinimg.com/videos/iht/hls/47/fc/73/47fc73fa21b7c898d0838f228c8dfb97.m3u8
+<img src="https://i.pinimg.com/736x/ee/b1/1b/eeb11bc95c5854ea02359b24bc90d147.jpg" width="300">
 
 I show my animations on my **Youtube channel**, and models/renders on my **Pinterest account**.
 
@@ -17,7 +17,6 @@ I show my animations on my **Youtube channel**, and models/renders on my **Pinte
 ### [SYS.GAMES](SYS.GAMES/README.MD) (On Hold)
 
 <img src="https://img.itch.zone/aW1nLzI3NjE3OTUyLmdpZg==/original/lRXmO1.gif" width="300">
-https://v1.pinimg.com/videos/iht/hls/47/fc/73/47fc73fa21b7c898d0838f228c8dfb97.m3u8
 
 A game about retro mini-games on an old computer terminal.
 
